@@ -1,5 +1,3 @@
 # Hello-world
-Rechange
-test
-test2
-test3
+clean
+
