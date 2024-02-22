@@ -1,3 +1,3 @@
 # Hello-world
 clean
-to request pull
+/n to request pull
