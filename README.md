@@ -1,3 +1,2 @@
 # Hello-world
-clean
-to request pull
+code practice
